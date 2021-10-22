@@ -21,3 +21,5 @@ I am a fresher in amrita school of engineering
 |Task-13|Circuit Design||
 |Task-14|Bandit||
 |Task-15|Project Euler||
+# My Views About The Tasks
+# My Introduction
