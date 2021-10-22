@@ -4,7 +4,7 @@ I am Prabu CR from Coimbatore,Tamil Nadu
 I am a fresher in amrita school of engineering
 |Task Lists| Discription|Status|
 |----------|-------------|-------|
-|Task-00|Installing Ubuntu|Completed|
+|Task-00https://github.com/PrabuCR/amfos-tasks/tree/main/TASK-00|Installing Ubuntu|Completed|
 |Task-01|Staring amFoss repositories|Completed|
 |Task-02| Begin your journey with Linux and Git||
 |Task-03|Programming||
